@@ -1,6 +1,6 @@
 ﻿Gui, Add, Text,, Press F4 To Start.
 Gui, Add, Text,, Press F8 To Stop.
-Gui, Add, Text,, Created By: no, im anonimous
+Gui, Add, Text,, Created By: HanderpY
 Gui, Show
 F4::
 ;F4::
